@@ -23,9 +23,8 @@
     <a href="https://https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img width="48px" src="https://th.bing.com/th/id/R.45a2677424884e762b69f83d82daab60?rik=W6xZWIgmsjBCwg&pid=ImgRaw&r=0"/> </a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/> </a>
-    
-     <a href="https://www.microsoft.com/en/microsoft-365" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/> </a>
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/> </a>
+  
 </p>
 
 <br/>
