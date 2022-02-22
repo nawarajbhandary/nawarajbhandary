@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently Learning on JS, React.js and Frontend Stack.
 - 🌱 I’m currently pursuing Masters Degree in Information and Communication Technology (MICTE).
-- 👯 I'm also have experience on Graphic Design, Desktop publishing, and little bit of Networking.
+- 👯 I also have some experience on Graphic Design, Desktop publishing, and little bit of Network and System Administration.
 
 <br/>
 
@@ -39,8 +39,11 @@
 
 <br/>
 
-<h1 align="center"> My Views and Followers</h1>
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=nawarajbhandary"></a>
-<a href="https://github.com/nawarajbhandary?tab=followers"><img src="https://img.shields.io/github/followers/nawarajbhandry?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+<h1 align="center"> My daily.dev/devcart </h1>
+<a style="display:inline-block;" href="https://app.daily.dev/nawarajbhandary"><img align="center" src="https://api.daily.dev/devcards/ea5036b6163943d49378277a96b32fcf.png?r=15j" width="400" alt="nawaraj bhandari's Dev Card"/></a>
+
+<br>
+<br>
+
+<h1 align="center"> My FreeCodecamp certificate of accomplishment </h1>
+<a style="display:inline-block;" href="https://www.freecodecamp.org/certification/fcc4b25c4d5-904a-4b28-b7b3-ec131e00ad6c/javascript-algorithms-and-data-structures"><img align="center" width="100%" height="auto" src="https://raw.githubusercontent.com/nawarajbhandary/nawarajbhandary/master/FreeCodeCamp%20-%20Certificate.png"/></a>
