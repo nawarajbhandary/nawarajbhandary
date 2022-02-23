@@ -40,7 +40,8 @@
 <br/>
 
 <h1 align="center"> My daily.dev/devcart </h1>
-<a style="display:inline-block;" href="https://app.daily.dev/nawarajbhandary"><img align="center" src="https://api.daily.dev/devcards/ea5036b6163943d49378277a96b32fcf.png?r=15j" width="400" alt="nawaraj bhandari's Dev Card"/></a>
+<a style="display:inline-block;" href="https://app.daily.dev/nawarajbhandary"><img align="center" src="https://github.com/nawarajbhandary/nawarajbhandary/blob/master/devcard.svg" width="400" alt="Nawaraj Bhandari Devcard"/></a>
+
 
 <br>
 <br>
@@ -48,4 +49,4 @@
 <h1 align="center"> My FreeCodecamp certificate of accomplishment </h1>
 <a style="display:inline-block;" href="https://www.freecodecamp.org/certification/fcc4b25c4d5-904a-4b28-b7b3-ec131e00ad6c/javascript-algorithms-and-data-structures"><img align="center" width="100%" height="auto" src="https://raw.githubusercontent.com/nawarajbhandary/nawarajbhandary/master/FreeCodeCamp%20-%20Certificate.png"/></a>
 
-<a href="https://app.daily.dev/nawarajbhandary"><img src="https://github.com/nawarajbhandary/nawarajbhandary/blob/master/devcard.svg" width="400" alt="Nawaraj Bhandari Devcard"/></a>
+
