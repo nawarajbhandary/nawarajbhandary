@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="175px"/></a>
 
-<h1 align="center">Namaste, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Nawaraj Bhandari</h1>
+<h1 align="center">Hola, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Nawaraj Bhandari</h1>
 
 <h3 align="center">A Keen Learner who loves to do Frontend Development using JS.</h3>
 
